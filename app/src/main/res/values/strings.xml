@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stick Quest</string>
+    <string name="buttonName">Start</string>
+    <string name="gamePlayTitle">Example</string>
+    <string-array name="options">
+        <item>ExampleSetting1</item>
+        <item>ExampleSetting2</item>
+        <item>ExampleSetting3</item>
+        <item>ExampleSetting4</item>
+        <item>ExampleSetting5</item>
+    </string-array>
+</resources>
